@@ -16,19 +16,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/ic_launcher_background" />
-
-    <Button
-        android:id="@+id/buttom_ingredientes"
-        android:layout_width="900px"
-        android:layout_height="150px"
-        android:layout_marginStart="32dp"
-        android:layout_marginTop="16dp"
-        android:layout_marginEnd="32dp"
-        android:text="Ingredientes"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/menu_ishowfridge" />
+        app:srcCompat="@drawable/ishowfridge" />
 
     <Button
         android:id="@+id/buttom_receitas"
@@ -40,7 +28,7 @@
         android:text="Receitas"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/buttom_ingredientes" />
+        app:layout_constraintTop_toBottomOf="@+id/menu_ishowfridge" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
