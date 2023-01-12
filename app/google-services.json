@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811774389396",
+    "project_id": "trabalho-movel",
+    "storage_bucket": "trabalho-movel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811774389396:android:96ff94c71c77108c8e9881",
+        "android_client_info": {
+          "package_name": "ipca.DJPM.trabalhomovel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811774389396-f0n2dr2rf2n9ao7k0eme3hck9kvucovk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA97K-xSK_z129avBtCUyWuxL87jM8Ytgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811774389396-f0n2dr2rf2n9ao7k0eme3hck9kvucovk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
